@@ -193,7 +193,8 @@ public class SortingExperiment {
                 10000,
                 20000,
                 50000,
-                100000
+                100000,
+                1000000,
         };
 
         String[] algorithms = {
