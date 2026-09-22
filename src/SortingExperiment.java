@@ -194,6 +194,7 @@ public class SortingExperiment {
                 20000,
                 50000,
                 100000,
+                200000,
                 1000000,
         };
 
